@@ -1,6 +1,6 @@
 <?php
 
-	namespace Myj\Controller;
+	namespace App\Controller;
 
 	use Silex\Application;
 	use Silex\Api\ControllerProviderInterface;

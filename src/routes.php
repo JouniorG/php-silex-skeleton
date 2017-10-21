@@ -1,5 +1,5 @@
 <?php
 
-	use Myj\Controller\IndexController;
+	use App\Controller\IndexController;
 
 	$app->mount("/", new IndexController());

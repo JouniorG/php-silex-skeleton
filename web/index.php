@@ -6,7 +6,7 @@
 
 	$app = require __dir__."/../src/app.php";
 
-	require __dir__."/../src/myj/Controllers/ControllersLoader.php";
+	require __dir__."/../src/App/Controllers/ControllersLoader.php";
 	require __dir__."/../src/routes.php";
 
 	$app['debug'] = true;
